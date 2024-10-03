@@ -6,3 +6,8 @@ git commit -m "add file"
 
 git push -u origin main
 
+git add .
+
+git commit -m "changes"
+
+git push
