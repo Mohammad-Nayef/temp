@@ -1,1 +1,8 @@
+git clone https://github.com/Mohammad-Nayef/temp
+
+git add .
+
+git commit -m "add file"
+
+git push -u origin main
 
