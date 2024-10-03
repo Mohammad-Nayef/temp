@@ -5,3 +5,4 @@ git add .
 git commit -m "first message"
 git clone https://github.com/Mohammad-Nayef/temp.git
 git pull 
+git push -u origin main
